@@ -2,7 +2,7 @@
 
 Self learned software developer from Sweden
 
-## Experience
+## Languages
 
 * C++
 * C# / .NET
@@ -11,6 +11,5 @@ Self learned software developer from Sweden
 * Javascript
 
 ## Links
-GitLab: https://gitlab.com/martensi1
-
-Weather Briefing Project: https://flygplanering.se
+- GitLab Profile: https://gitlab.com/martensi1 
+- Pilot Briefing Project: https://flygplanering.se
