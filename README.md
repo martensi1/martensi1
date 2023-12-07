@@ -1,6 +1,6 @@
 👋 Hi, I’m @martensi1
 
-Self learned software developer from Sweden
+Self-learned software developer from Sweden
 
 ## Languages
 
