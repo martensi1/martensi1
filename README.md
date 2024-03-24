@@ -12,9 +12,19 @@ I'm always up for a challange!
 
 ## Skills
 
-* **Languages:** C++, C#, Python, Lua
-* **Tools & Technologies:** Git, Docker
+* **Languages:** C++, C#, Python, Lua, Ruby
+* **Version Vontrol:** Git, SVN
+* **Tools & Technologies:** Docker, SQLite,
+Protocol Buffers, gRPC, RESTful APIs, Jenkins,
+Gitlab CI/CD, OpenCV, SFML, etc
 
 ## Projects
 
-TODO
+Here are some of the projects I have been
+working on:
+
+1. **flygplanering.se:** A
+
+## Contact Me
+
+Feel feee to reach out to me via 
