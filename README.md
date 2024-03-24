@@ -5,9 +5,10 @@ eager to dive into new technologies and try
 new things. I'm passionate about pushing myself
 into unknown territory and challenging myself
 to grow. Whether it's building web applications,
-writing operating systems from scratch or
-diving into computer vision projects. I'm always up for a
-challange!
+computer vision projects or diving into 
+writing operating systems from scratch (wich I
+must say is a very humbling experience). 
+I'm always up for a challange!
 
 ## Skills
 
