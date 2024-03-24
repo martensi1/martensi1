@@ -20,11 +20,18 @@ Gitlab CI/CD, OpenCV, SFML, etc
 
 ## Projects
 
-Here are some of the projects I have been
-working on:
+Here are some of the projects I have been working on:
 
-1. **flygplanering.se:** A
+1. **flygplanering.se:** Self briefing service for swedish PPL-pilots
+    - *Tech Stack:* C#, ASP.NET, RESTful APIs
+    - *Description:* An ASP.NET Core web application for easy preflight preperations, intended to be used by swedish PPL-pilots for VFR-flights. The information on the page consists of live METAR, TAF, NOTAM, NSWC which is gathered from different data sources. An option for doing preflight weight and balance calculations is also available for some users. Visit the live website: https://flygplanering.se
+2. **Nova Kernel:** An hobby kernel written from scratch
+    - *Tech Stack:* C++, C, Assembly
+    - *Description:* The goal of this project is to gain a deeper understanding of operating system, kernel development and low-level programming.
+3. **AsciiDoctor UnitTest Extension:**
+    - *Tech Stack:*: Ruby, AsciiDoctor
+    - *Description:* TODO 
 
 ## Contact Me
 
-Feel feee to reach out to me via 
+Feel feee to reach out to me
