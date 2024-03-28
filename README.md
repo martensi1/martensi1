@@ -33,10 +33,6 @@ Here are some of the projects I have been working on:
 3. **Airbag:** A drop-in crash handler for POSIX-based systems
     - *Tech Stack:* C
     - *Description:* Airbag is a simple crash handler that can be used to catch and log crashes in C/C++ applications to a file descriptor. It is designed to be a drop-in solution for POSIX-based systems and can be easily integrated into existing projects.
-3. **AsciiDoctor UnitTest Extension:**
-    - TODO
-4. **Georoute:**
-    - TODO
 
 ## Contact Me
 
