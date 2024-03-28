@@ -30,9 +30,11 @@ Here are some of the projects I have been working on:
     - *Tech Stack:* C++, C, Assembly
     - *Description:* The goal of this project is to gain a deeper understanding of operating systems, kernel development and low-level programming. This is an ongoing project and the kernel is developed to support both i386 and x86-64 instruction set architectures.
     - *Project link:* https://github.com/martensi1/nova-kernel
+3. **Airbag:** A drop-in crash handler for POSIX-based systems
+    - *Tech Stack:* C
+    - *Description:* Airbag is a simple crash handler that can be used to catch and log crashes in C/C++ applications to a file descriptor. It is designed to be a drop-in solution for POSIX-based systems and can be easily integrated into existing projects.
 3. **AsciiDoctor UnitTest Extension:**
-    - *Tech Stack:*: Ruby, AsciiDoctor
-    - *Description:* TODO
+    - TODO
 4. **Georoute:**
     - TODO
 
