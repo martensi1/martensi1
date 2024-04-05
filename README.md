@@ -25,14 +25,15 @@ Here are some of the projects I have been working on:
 1. **flygplanering.se:** Self-briefing service for Swedish PPL-pilots
     - *Tech Stack:* C#, ASP.NET, RESTful APIs
     - *Description:* An ASP.NET Core web application for easy preflight preparations, intended to be used by Swedish PPL-pilots for VFR-flights. The information on the page consists of live METAR, TAF, NOTAM, NSWC which are gathered from different data sources. An option for doing preflight weight and balance calculations is also available for some users.
-    - *Project link:* https://github.com/martensi1/flygplanering.se
+    - *Project Link:* https://github.com/martensi1/flygplanering.se
 2. **Nova Kernel:** A hobby kernel written from scratch
     - *Tech Stack:* C++, C, Assembly
     - *Description:* The goal of this project is to gain a deeper understanding of operating systems, kernel development and low-level programming. This is an ongoing project and the kernel is developed to support both i386 and x86-64 instruction set architectures.
-    - *Project link:* https://github.com/martensi1/nova-kernel
+    - *Project Link:* https://github.com/martensi1/nova-kernel
 3. **Airbag:** A drop-in crash handler for POSIX-based systems
     - *Tech Stack:* C
     - *Description:* Airbag is a simple crash handler that can be used to catch and log crashes in C/C++ applications to a file descriptor. It is designed to be a drop-in solution for POSIX-based systems and can be easily integrated into existing projects.
+    - *Project Link:* https://github.com/martensi1/airbag
 
 ## Contact Me
 
