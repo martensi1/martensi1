@@ -12,7 +12,7 @@ I'm always up for a challenge!
 
 ## Skills
 
-* **Languages:** C++, C#, Python, Lua, Ruby
+* **Languages:** C++, C, C#, Python, Lua, Ruby
 * **Version Vontrol:** Git, SVN
 * **Tools & Technologies:** Docker, SQLite,
 Protocol Buffers, gRPC, RESTful APIs, Jenkins,
