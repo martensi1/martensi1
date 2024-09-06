@@ -34,7 +34,7 @@ Here are some of the projects I have been working on:
     - *Tech Stack:* C
     - *Description:* Airbag is a simple crash handler that can be used to catch and log crashes in C/C++ applications to a file descriptor. It is designed to be a drop-in solution for POSIX-based systems and can be easily integrated into existing projects.
     - *Project Link:* https://github.com/martensi1/airbag
-4. **AeroFetch** Support libraries for aviation related hobby projects
+4. **AeroFetch:** Support libraries for aviation related hobby projects
     - *Tech Stack:* C#, .NET
     - *Description:* Collection of lightweight, hobbyist-friendly .NET libraries that lets you easily fetch all sorts of aviation data—like weather reports (METAR), forecasts (TAF), NOTAMs, and more
     - *Project Link:* https://github.com/martensi1/aero-fetch
